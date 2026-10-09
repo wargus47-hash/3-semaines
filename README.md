@@ -9,7 +9,7 @@
 - Si ça dure **plus de 3 semaines** ou si ça s'aggrave, elle vous invite gentiment à consulter, et prépare une **fiche claire pour votre médecin**.
 - Elle rappelle aussi les **dépistages** qui vous concernent.
 
-> ⚠️ Cette application **ne remplace pas un médecin**. Elle ne fait aucun diagnostic.
+> ⚠️ Cette application **ne remplace pas un médecin**. Ce n'est pas un dispositif médical : elle ne fait aucun diagnostic.
 > En cas de douleur forte, de saignement important ou d'urgence, appelez le **15** ou le **112**.
 
 ## Télécharger et installer (Android)
@@ -35,6 +35,13 @@ Par précaution, vous pouvez d'abord créer une sauvegarde (Réglages → Sauveg
 ## Soutenir
 
 3 Semaines est et restera gratuite. Si elle vous est utile, vous pouvez faire un don libre au créateur ([PayPal](https://www.paypal.me/lechemindemerlin)) ou soutenir une association de lutte contre le cancer : [Fondation ARC](https://www.fondation-arc.org/agir-ensemble/je-fais-un-don/), [Institut Curie](https://curie.fr/faire-un-don), [Ligue contre le cancer](https://www.ligue-cancer.net/faire-un-don-ponctuel-ligue-contre-le-cancer).
+
+## Contact et informations légales
+
+- Contact : **cassagne.jonathan@orange.fr**
+- [Mentions légales](MENTIONS-LEGALES.md)
+- [Conditions d'utilisation](CONDITIONS.md)
+- [Politique de confidentialité](CONFIDENTIALITE.md)
 
 ---
 
