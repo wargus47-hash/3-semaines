@@ -34,8 +34,8 @@ L'application s'adresse aux personnes de 16 ans et plus.
 
 Ces conditions peuvent évoluer ; la date de mise à jour est indiquée ci-dessous. Elles sont régies par le droit français.
 
-Pour toute question : cassagne.jonathan@orange.fr. Dernière mise à jour : 9 octobre 2026.
+Pour toute question : cassagne.jonathan@orange.fr. Dernière mise à jour : 7 novembre 2026.
 
 ---
 
-*Dernière mise à jour : 9 octobre 2026.*
+*Dernière mise à jour : 7 novembre 2026.*
