@@ -6,7 +6,7 @@ L'éditeur de 3 Semaines ne collecte aucune donnée. Il n'y a ni compte, ni serv
 
 ## Ce qui est enregistré sur votre téléphone
 
-Ce que vous saisissez : description et date des changements notés, endroit sur la carte du corps, auto-contrôles (évolution, taille, intensité, signes généraux), photos, documents (comptes rendus, analyses…), rendez-vous, dépistages réalisés, et vos réglages (prénom, année de naissance, sexe, médecin traitant, personne de confiance).
+Ce que vous saisissez : description et date des changements notés, endroit sur la carte du corps, auto-contrôles (évolution, taille, intensité, signes généraux), photos, documents (comptes rendus, analyses…), rendez-vous, suivis réguliers (spécialiste, fréquence, date du dernier rendez-vous), dépistages réalisés, et vos réglages (prénom, année de naissance, sexe, médecin traitant, personne de confiance).
 
 Ces informations sont rangées dans l'espace privé de l'application. La base de données est chiffrée (AES 256 bits), avec une clé conservée dans le coffre-fort sécurisé du téléphone. Vous pouvez protéger l'application par un code ou par empreinte / visage.
 
@@ -46,8 +46,8 @@ Google Play et l'App Store peuvent recueillir leurs propres données lors du té
 
 ## Contact et mise à jour
 
-Éditeur : Jonathan Cassagne. Contact : cassagne.jonathan@orange.fr. Dernière mise à jour : 9 octobre 2026.
+Éditeur : Jonathan Cassagne. Contact : cassagne.jonathan@orange.fr. Dernière mise à jour : 7 novembre 2026.
 
 ---
 
-*Dernière mise à jour : 9 octobre 2026.*
+*Dernière mise à jour : 7 novembre 2026.*
