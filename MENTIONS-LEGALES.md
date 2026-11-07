@@ -32,4 +32,4 @@ Le nom, les textes, les illustrations et le code de l'application sont la propri
 
 ---
 
-*Dernière mise à jour : 9 octobre 2026.*
+*Dernière mise à jour : 7 novembre 2026.*
